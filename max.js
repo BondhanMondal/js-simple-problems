@@ -25,3 +25,4 @@ console.log('largest is : ', max);
 
 
 //solve task1: find largest between three numbers
+//solve task1: find smallest between three numbers
